@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nazila AZABDAFTAR</h1>
-<h3 align="center">A Computer-Software-Engineer from IRAN</h3>
+<h1 align="center">I'm Nazila AZABDAFTAR</h1>
+<h3 align="center">A Computer-Software-Engineer from IRAN/Teheran live in Austria/Vienna</h3>
 
 - 🔭 I’m currently working on [my Portfolio](https://nazila.codefactory.live)
 
-- 🌱 I’m currently prepare on **Hackerrank**
+- 🌱 I am currently preparing in Hackerrank.com for PHP
 
 - 👨‍💻 All of my projects are available at [https://nazila.codefactory.live](https://nazila.codefactory.live)
 
